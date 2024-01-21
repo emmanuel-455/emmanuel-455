@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/priestnuel4" target="blank"><img src="https://img.shields.io/twitter/follow/priestnuel4?logo=twitter&style=for-the-badge" alt="priestnuel4" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://nimos-project-websites.on.drv.tw/nimo%20Portfolio/profile.html](https://nimos-project-websites.on.drv.tw/nimo%20Portfolio/profile.html)
 
 - 💬 Ask me about **JavaScript, React and NodeJS**
@@ -18,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priestnuel4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priestnuel4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-arinze-315623267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuel-arinze-315623267/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100087580021372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087580021372" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel (nimo) arinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel (nimo) arinze" height="30" width="40" /></a>
+<a href="https://fb.com/ni mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ni mo" height="30" width="40" /></a>
 <a href="https://instagram.com/arinzechukwu_ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arinzechukwu_ngene" height="30" width="40" /></a>
 </p>
 

@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priestnuel4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priestnuel4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel (nimo) arinze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel (nimo) arinze" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arinze-ngene-315623267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel (nimo) arinze" height="30" width="40" /></a>
 <a href="https://fb.com/ni mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ni mo" height="30" width="40" /></a>
 <a href="https://instagram.com/arinzechukwu_ngene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arinzechukwu_ngene" height="30" width="40" /></a>
 </p>

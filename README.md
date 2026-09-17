@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priestnuel4" target="blank"><img src="https://img.shields.io/twitter/follow/priestnuel4?logo=twitter&style=for-the-badge" alt="priestnuel4" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://arinze-ngene.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://azen.live)
 
 - 💬 Ask me about **JavaScript, React and NodeJS**
 

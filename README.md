@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 <h1 align="center">Hi 👋, I'm Ngene Arinzechukwu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Full-stack developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-455&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-455" /> </p>
